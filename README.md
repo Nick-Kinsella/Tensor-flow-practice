@@ -24,7 +24,3 @@ To run the code, you'll need:
 - TensorFlow (recommended version: 2.x)
 - NumPy and other common ML libraries
 
-You can install the necessary packages with:
-
-```bash
-pip install -r requirements.txt
